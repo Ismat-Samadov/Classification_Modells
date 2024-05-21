@@ -14,7 +14,6 @@ This repository contains the implementation and optimization of several classifi
 - [Univariate Analysis](#univariate-analysis)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
